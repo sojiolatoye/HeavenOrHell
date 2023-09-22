@@ -1,3 +1,3 @@
 #role of the girl
-#the attributes from the start are  0 strength, 5 intelligence and 10 beauty
-girl = "strength is 10, intelligence is 0 and beauty is 5"
+#the attributes from the start are  1 strength,  2 intelligence and 4 beauty
+girl = "strength is 1, intelligence is 2 and beauty is 4"
